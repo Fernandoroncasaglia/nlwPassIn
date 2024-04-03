@@ -12,7 +12,7 @@ public class RegisterAttendeeOnEventUseCase
     private readonly PassInDbContext _dbContext;
     public RegisterAttendeeOnEventUseCase()
     {
-        var _dbContext = new PassInDbContext();
+        _dbContext = new PassInDbContext();
     }
     public ResponseRegisteredJson Execute(Guid eventId, RequestRegisterEventJson request)
     {
