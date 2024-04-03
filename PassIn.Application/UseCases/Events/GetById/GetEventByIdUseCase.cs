@@ -14,7 +14,7 @@ public class GetEventByIdUseCase
 
         if(entity is null)
         {
-            throw new PassInException("An event with this id dont exists.");
+            throw new NotFoundException("An event with this id dont exists.");
         }
 
         return new ResponseEventJson
