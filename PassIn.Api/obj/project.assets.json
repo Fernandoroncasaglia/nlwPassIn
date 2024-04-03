@@ -1679,11 +1679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
+      "projectUniqueName": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
       "projectName": "PassIn.Api",
-      "projectPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
+      "projectPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
       "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Api\\obj\\",
+      "outputPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1698,14 +1698,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Application\\PassIn.Application.csproj": {
-              "projectPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Application\\PassIn.Application.csproj"
+            "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Application\\PassIn.Application.csproj": {
+              "projectPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Application\\PassIn.Application.csproj"
             },
-            "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
-              "projectPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj"
+            "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
+              "projectPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj"
             },
-            "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
-              "projectPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj"
+            "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+              "projectPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj"
             }
           }
         }

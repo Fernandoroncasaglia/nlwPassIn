@@ -9,3 +9,4 @@ c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Communication\obj\Debug\net8.0\Pa
 c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Communication\obj\Debug\net8.0\refint\PassIn.Communication.dll
 c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.pdb
 c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Communication\obj\Debug\net8.0\ref\PassIn.Communication.dll
+c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.sourcelink.json

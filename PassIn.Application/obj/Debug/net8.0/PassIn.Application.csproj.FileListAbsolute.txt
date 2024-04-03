@@ -17,3 +17,4 @@ c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Application\obj\Debug\net8.0\Pass
 c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Application\obj\Debug\net8.0\ref\PassIn.Application.dll
 c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Application\bin\Debug\net8.0\PassIn.Exceptions.dll
 c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Application\bin\Debug\net8.0\PassIn.Exceptions.pdb
+c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Application\obj\Debug\net8.0\PassIn.Application.sourcelink.json

@@ -67,3 +67,4 @@ c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Api\bin\Debug\net8.0\runtimes\win
 c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Api\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+c:\Users\Fernando\Documents\.Net\PassIn\PassIn.Api\obj\Debug\net8.0\PassIn.Api.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {}
+    "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
+    "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
+        "projectUniqueName": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
         "projectName": "PassIn.Communication",
-        "projectPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
+        "projectPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\obj\\",
+        "outputPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config"

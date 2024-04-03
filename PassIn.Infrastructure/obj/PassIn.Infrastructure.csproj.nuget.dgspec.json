@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {}
+    "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
+    "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
         "projectName": "PassIn.Infrastructure",
-        "projectPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config"
