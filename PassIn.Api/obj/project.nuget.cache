@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w0RTtrTouICfow+q9EtkM51u9EJMHnn/dAP75MUNLwONGwZN2NOVBPljJVbt0ZxDCxOG6FxAGmjLRqGOwYZ6pQ==",
+  "dgSpecHash": "uhVf/7iI83OIMsFAuIYO/DUGBLT51GldgQuSWHT2mAnA8s6IHSDxE/PQpVvNm74Mlli6EWKpe2JuGc5/qa6XQg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
+  "projectFilePath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.3\\microsoft.data.sqlite.core.8.0.3.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",

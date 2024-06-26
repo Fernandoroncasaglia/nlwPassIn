@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {}
+    "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
+    "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
         "projectName": "PassIn.Communication",
-        "projectPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
+        "projectPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
         "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\obj\\",
+        "outputPath": "C:\\Users\\Fernando\\Documents\\.Net\\PassIn\\PassIn.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,33 +31,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
         }
       }
     }
